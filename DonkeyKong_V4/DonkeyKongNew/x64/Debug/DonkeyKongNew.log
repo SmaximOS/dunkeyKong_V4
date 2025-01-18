@@ -1,0 +1,8 @@
+﻿  FileHandler.cpp
+C:\Users\Maxim\source\repos\DonkeyKong_V4\FileHandler.h(15,9): warning C4005: '_SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING': macro redefinition
+  (compiling source file 'FileHandler.cpp')
+      C:\Users\Maxim\source\repos\DonkeyKong_V4\FileHandler.h(15,9):
+      '_SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING' previously declared on the command line
+  
+C:\Users\Maxim\source\repos\DonkeyKong_V4\FileHandler.cpp(76,1): warning C4715: 'FileHandler::getFloor': not all control paths return a value
+  DonkeyKongNew.vcxproj -> C:\Users\Maxim\source\repos\DonkeyKong_V4\x64\Debug\DonkeyKongNew.exe
